@@ -206,17 +206,5 @@
       <SegmentHistory />
     </Segment>
   </Segments>
-  <AutoSplitterSettings>
-    <Version>1.5</Version>
-    <ScriptPath>C:\Users\lotve\Downloads\LiveSplit_1.8.33\Components\LiveSplit.SacreBleu.asl</ScriptPath>
-    <Start>True</Start>
-    <Split>True</Split>
-    <CustomSettings>
-      <Setting id="tutorial_split" type="bool">True</Setting>
-      <Setting id="load_removal" type="bool">True</Setting>
-      <Setting id="combat_deductions" type="bool">True</Setting>
-      <Setting id="deaths_per_run" type="bool">False</Setting>
-      <Setting id="deaths_per_level" type="bool">False</Setting>
-    </CustomSettings>
-  </AutoSplitterSettings>
+
 </Run>
